@@ -1,0 +1,13 @@
+Flask
+openmeteo-requests
+requests
+urllib3
+chardet
+requests-cache
+retry-requests
+pandas
+openpyxl
+matplotlib
+weasyprint
+jinja2
+numpy
